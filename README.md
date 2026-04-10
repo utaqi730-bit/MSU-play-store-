@@ -1,4 +1,4 @@
-MSU-play-store-
+
 <!DOCTYPE html>
 <html>
 <head>
